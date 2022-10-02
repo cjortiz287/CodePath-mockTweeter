@@ -5,7 +5,7 @@ CodePath Project - mock app of Tweeter for iOS
 
 This is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## User Stories
 
@@ -26,4 +26,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://recordit.co/QfF7OgV4SM' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://recordit.co/QfF7OgV4SM
